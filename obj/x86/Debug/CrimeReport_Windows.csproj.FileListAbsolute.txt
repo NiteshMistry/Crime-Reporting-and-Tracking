@@ -1,0 +1,43 @@
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\bin\Debug\CrimeReport_Windows.exe
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\bin\Debug\CrimeReport_Windows.pdb
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Properties.Resources.resources
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.exe
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.pdb
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Login.resources
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Register.resources
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.ViewCrimeOnGoogleMap.resources
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.ViewLog.resources
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.View_FIR.resources
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.SearchCrm.resources
+F:\Projects\-----Projects 2013 2104-----\DotNetProjects\CrimeReport_Win_Android\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Master.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.exe
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.pdb
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\bin\Debug\CrimeReport_Windows.exe
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\bin\Debug\CrimeReport_Windows.pdb
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.csprojResolveAssemblyReference.cache
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Login.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Master.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Properties.Resources.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Register.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.SearchCrm.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.ViewCrimeOnGoogleMap.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.ViewLog.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.View_FIR.resources
+C:\Users\Nitz\Desktop\software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.csproj.GenerateResource.Cache
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.exe
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.pdb
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\bin\Debug\CrimeReport_Windows.exe
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\bin\Debug\CrimeReport_Windows.pdb
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.csprojResolveAssemblyReference.cache
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Login.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Master.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Properties.Resources.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.Register.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.SearchCrm.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.ViewCrimeOnGoogleMap.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.ViewLog.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.View_FIR.resources
+C:\Nitesh\Project software\CrimeReport_Windows\CrimeReport_Windows\obj\x86\Debug\CrimeReport_Windows.csproj.GenerateResource.Cache
